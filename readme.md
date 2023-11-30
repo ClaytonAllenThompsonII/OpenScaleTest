@@ -13,10 +13,6 @@ The OpenScale was designed for projects and applications where the load was stat
 
 On board the SparkFun OpenScale is the ATmega328P microcontroller, for addressing your communications needs and transferring your data to a serial terminal or to a data logger such as the OpenLog, an FT231 with mini USB, for USB to serial connection; the HX711, a 24-bit ADC for weigh scales; and the TMP102, for recording the ambient temperature of your system. The OpenScale communicates at a TTL level of 9,600bps 8-N-1 by default and possesses a baud rate configurable from 1,200bps to 1,000,000bps.
 
-![The electronics monitoring the bee hive](https://raw.githubusercontent.com/sparkfun/OpenScale/master/Hive-Electronics.jpg)
-
-You can read more about the beehive project that OpenScale is used in the [Internet of Bees](http://makezine.com/projects/bees-sensors-monitor-hive-health/) article.
-
 Repository Contents
 -------------------
 
@@ -42,4 +38,3 @@ Please use, reuse, and modify these files as you see fit. Please maintain attrib
 
 Distributed as-is; no warranty is given.
 
-- Your friends at SparkFun.
