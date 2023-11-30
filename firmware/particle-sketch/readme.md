@@ -1,4 +1,4 @@
-SparkFun Beehive Particle Sketch
+SparkFun Inventory Measurement Particle Sketch
 ===========
 
-This is the sketch that is used on the Particle Core.
+This is the sketch that is used on the Particle Photon.
