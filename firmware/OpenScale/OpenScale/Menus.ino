@@ -10,7 +10,7 @@ void displaySystemHeader(void)
   Serial.print(F("\r\nSerial Load Cell Converter version "));
   Serial.println(F(FIRMWARE_VERSION));
   Serial.println(F("By SparkFun Electronics"));
-  Serial.println(F("Grouper.ai - Clayton Thompson "));
+  Serial.println(F("Cost Curve.ai - Sense the world, compute to understand, take action "));
 
 }
 
