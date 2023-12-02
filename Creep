@@ -1,0 +1,17 @@
+Calibration Suggestions
+Creep is the change in load cell signal occurring with time while under constant load and with all environmental conditions and other variables also remaining constant. 
+Load cells tend to creep meaning they will change their output slightly over time when a weight is left on the scale for long (30+ minutes) periods of time. 
+To calibrate for something such as a bee hive that will be permanently left on a scale:
+
+Place everything on the scale that will be the zero state (the hive plus any static ballast)
+Leave the scale for 30+ minutes
+Tare the scale with these weights
+Place two calibration weights onto the scale
+Leave the scale for 30+ minutes
+Calibrate the scale to this combined weight
+Remove one of the calibration weights and verify scale output
+More information about load cells and creep can be found here. 
+
+Creep is also load cell specific. 
+You will find a section on creep in the data sheet for your specific load cell. 
+This calibration method may need to be repeated every season with changing temperatures and humidity.
